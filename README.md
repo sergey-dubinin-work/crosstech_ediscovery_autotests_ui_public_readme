@@ -1,0 +1,2 @@
+# crosstech_ediscovery_autotests_ui_public_readme
+Проект по автоматизации тестирования WEB UI системы eDiscovery
